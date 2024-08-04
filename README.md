@@ -59,8 +59,7 @@ The Quiz Generator and Manager is designed to automatically generate quizzes bas
 ├── task_5.py
 ├── task_8.py
 ├── task_9.py
-├── main.py
-├── requirements.txt
+├── task_10.py
 └── README.md
 ```
 
