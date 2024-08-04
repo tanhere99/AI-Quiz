@@ -142,9 +142,9 @@ class QuizGenerator:
 # Test the Object
 if __name__ == "__main__":
     
-    from tasks.task_3.task_3 import DocumentProcessor
-    from tasks.task_4.task_4 import EmbeddingClient
-    from tasks.task_5.task_5 import ChromaCollectionCreator
+    from task_3 import DocumentProcessor
+    from task_4 import EmbeddingClient
+    from task_5 import ChromaCollectionCreator
     
     
     embed_config = {
